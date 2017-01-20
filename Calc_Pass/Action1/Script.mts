@@ -1,4 +1,5 @@
 ﻿SystemUtil.Run "calc"
+'this is a new comment
 
 Window("Calculator").WinButton("1").Click @@ hightlight id_;_1316608_;_script infofile_;_ZIP::ssf1.xml_;_
 Window("Calculator").WinButton("+").Click @@ hightlight id_;_525486_;_script infofile_;_ZIP::ssf2.xml_;_
