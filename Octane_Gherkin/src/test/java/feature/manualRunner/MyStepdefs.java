@@ -5,9 +5,8 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-/**
- * Created by Administrator on 7/6/2016.
- */
+/* Created by Administrator on 7/6/2016.
+
 public class MyStepdefs {
     @Then("^I confirm my payment method is Visa and proceed to checkout$")
     public void iConfirmMyPaymentMethodIsVisaAndProceedToCheckout() throws Throwable {
@@ -65,3 +64,5 @@ public class MyStepdefs {
     }
 
 }
+ */
+
