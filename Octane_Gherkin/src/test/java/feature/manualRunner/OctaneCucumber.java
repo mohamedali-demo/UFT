@@ -1,5 +1,5 @@
 package feature.manualRunner;
-//version 1.04
+//version 1.05
 import cucumber.api.junit.Cucumber;
 import cucumber.runtime.Runtime;
 import cucumber.runtime.RuntimeOptions;
